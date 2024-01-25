@@ -1,3 +1,2 @@
-# The Data Hub is an accessible, open data platform providing the necessary information and analysis to support change for those striving to improve conditions in supply chains. Its mission is to inspire and challenge businesses to eradicate supply chain abuses and, through the open democratisation of knowledge, to enable companies to meet legal and societal expectations for how business should sustainably be done.
-mcn
+The Data Hub is an accessible, open data platform providing the necessary information and analysis to support change for those striving to improve conditions in supply chains. Its mission is to inspire and challenge businesses to eradicate supply chain abuses and, through the open democratisation of knowledge, to enable companies to meet legal and societal expectations for how business should sustainably be done. kdkdkdkdkkkdkdk
 
